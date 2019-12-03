@@ -23,7 +23,7 @@ class MyHomePage extends StatelessWidget{
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Widget1(),
-              Widget2(),
+              Widget2(),  
               Widget3(),
             ],
           ),
